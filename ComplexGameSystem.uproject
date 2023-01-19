@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4511938D-4A08-5050-0D2A-CE9E10B0754B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ComplexGameSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
